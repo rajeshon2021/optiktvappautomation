@@ -1,0 +1,3 @@
+Include Group	Group Name	Combine	Platform-Type-OS-Version	Name	Location	Environment	Test Data
+
+YES	Optiktvguestflow		Android-device-Android-8.0.0	Galaxy S7 Edge	Perfecto_Private	Production	"AcquisitionType=Specific,TestData='USERID=thegentlerajesh@gmail.com,PASSWORD=Password1"
